@@ -1,0 +1,25 @@
+{
+  "name": "courier-array",
+  "version": "0.0.1",
+  "description": "Add pub/sub support to arrays using the courier module.",
+  "main": "courier-array.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "courier": "~1"
+  },
+  "devDependencies": {
+    "mocha": "~1",
+    "expect.js": "~0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/richRemer/courier-array.git"
+  },
+  "author": "Richard Remer (reanjr@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richRemer/courier-array/issues"
+  }
+}
