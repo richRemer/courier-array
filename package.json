@@ -1,6 +1,6 @@
 {
   "name": "courier-array",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Add pub/sub support to arrays using the courier module.",
   "main": "courier-array.js",
   "scripts": {
